@@ -1,6 +1,6 @@
 # Boston Crime Insights using Tableau
   
-**Tableau Public**: Boston-Crime-Insights-Published-Link
+**Tableau Public**: [Boston-Crime-Insights-Published-Link](https://public.tableau.com/app/profile/krish.patel1849/viz/BostonCrimeInsights-KRISHPATEL/STORY)
 
 **By**: Krish Patel  
 **Date**: April 10, 2025
