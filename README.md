@@ -71,3 +71,7 @@ The Boston Crime Insights Dashboard delivers an interactive and transparent view
 ## Sources
 
 - **Boston Crime Data**: [Boston Open Data Portal](https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system)
+
+## Github Repo:
+- **User Information:** Contains information for users on how to use Dashboards and which features in contains 
+- **StoryPointPreview:** Shows images of the dashboard views
